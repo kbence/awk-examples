@@ -1,0 +1,576 @@
+1	4,5	sweet cone	skittles	whipped cream	vanilla	rum & walnuts
+2	1,2,3	vanilla	tutti frutti	rum & walnuts
+3	2	whipped cream	coffee
+4	2,3	chocolate flakes	rum & walnuts	pistachio
+5	3,4,5	chocolate flakes	whipped cream	caramel	rum & walnuts	pistachio
+6	1	vanilla
+7	4	chocolate flakes	skittles	whipped cream	rum & walnuts
+8	2,3,4	whipped cream	vanilla	tutti frutti	rum & walnuts
+9	2,3	whipped cream	vanilla	rum & walnuts
+10	3,4,5	sweet cone	whipped cream	tutti frutti	rum & walnuts	pistachio
+11	3	skittles	whipped cream	tutti frutti
+12	2	sweet cone	pistachio
+13	2,3,4	whipped cream	vanilla	tutti frutti	coffee
+14	1,2,3	tutti frutti	rum & walnuts	pistachio
+15	2,3,4	chocolate flakes	caramel	rum & walnuts	pistachio
+16	2	chocolate flakes	pistachio
+17	2,3,4	chocolate flakes	vanilla	caramel	coffee
+18	3,4	sweet cone	whipped cream	coffee	pistachio
+19	1,2	rum & walnuts	pistachio
+20	3,4,5,6,7	chocolate flakes	skittles	tutti frutti	caramel	rum & walnuts	coffee	pistachio
+21	5,6	sweet cone	chocolate flakes	skittles	whipped cream	rum & walnuts	coffee
+22	1	vanilla
+23	2	whipped cream	caramel
+24	3	sweet cone	whipped cream	coffee
+25	1	vanilla
+26	1,2	caramel	coffee
+27	2	sweet cone	rum & walnuts
+28	1	caramel
+29	3,4,5	sweet cone	skittles	caramel	rum & walnuts	coffee
+30	2,3,4,5	whipped cream	vanilla	tutti frutti	caramel	coffee
+31	4	chocolate flakes	skittles	whipped cream	coffee
+32	2	chocolate flakes	caramel
+33	3	sweet cone	chocolate flakes	pistachio
+34	4	sweet cone	skittles	whipped cream	pistachio
+35	1	coffee
+36	2	skittles	tutti frutti
+37	2,3,4	chocolate flakes	tutti frutti	rum & walnuts	pistachio
+38	2,3,4	whipped cream	vanilla	rum & walnuts	coffee
+39	3	chocolate flakes	skittles	tutti frutti
+40	2	chocolate flakes	caramel
+41	1	caramel
+42	1,2	vanilla	rum & walnuts
+43	2,3	chocolate flakes	vanilla	caramel
+44	3	sweet cone	skittles	pistachio
+45	2	sweet cone	pistachio
+46	2,3	whipped cream	rum & walnuts	pistachio
+47	1	tutti frutti
+48	3	chocolate flakes	skittles	rum & walnuts
+49	1	caramel
+50	3,4	sweet cone	whipped cream	rum & walnuts	pistachio
+51	3,4,5	skittles	whipped cream	tutti frutti	caramel	coffee
+52	3,4,5,6	sweet cone	whipped cream	vanilla	tutti frutti	coffee	pistachio
+53	2,3,4	chocolate flakes	vanilla	tutti frutti	caramel
+54	4	chocolate flakes	skittles	whipped cream	pistachio
+55	2	skittles	vanilla
+56	2	sweet cone	pistachio
+57	2	chocolate flakes	tutti frutti
+58	2,3,4,5	whipped cream	vanilla	rum & walnuts	coffee	pistachio
+59	3,4,5	sweet cone	chocolate flakes	caramel	coffee	pistachio
+60	3,4,5	skittles	whipped cream	vanilla	caramel	rum & walnuts
+61	1	rum & walnuts
+62	2	sweet cone	caramel
+63	1,2,3,4	vanilla	caramel	rum & walnuts	coffee
+64	2,3,4	skittles	vanilla	rum & walnuts	pistachio
+65	3,4,5	sweet cone	whipped cream	tutti frutti	rum & walnuts	coffee
+66	1	rum & walnuts
+67	2	whipped cream	vanilla
+68	2,3,4	chocolate flakes	caramel	rum & walnuts	pistachio
+69	1	caramel
+70	3,4,5	sweet cone	chocolate flakes	vanilla	caramel	coffee
+71	1,2	coffee	pistachio
+72	2,3	chocolate flakes	coffee	pistachio
+73	2	skittles	coffee
+74	1	coffee
+75	2,3	chocolate flakes	tutti frutti	caramel
+76	2,3	chocolate flakes	caramel	pistachio
+77	3	sweet cone	chocolate flakes	pistachio
+78	2	sweet cone	caramel
+79	3,4,5	sweet cone	whipped cream	vanilla	rum & walnuts	coffee
+80	4,5	chocolate flakes	skittles	whipped cream	tutti frutti	caramel
+81	3,4,5,6	sweet cone	skittles	tutti frutti	caramel	coffee	pistachio
+82	1	pistachio
+83	2,3	skittles	coffee	pistachio
+84	1	caramel
+85	2,3,4	whipped cream	vanilla	caramel	rum & walnuts
+86	2	skittles	rum & walnuts
+87	3,4	sweet cone	skittles	vanilla	coffee
+88	5	sweet cone	chocolate flakes	skittles	whipped cream	vanilla
+89	2,3,4	skittles	rum & walnuts	coffee	pistachio
+90	1	vanilla
+91	2,3	chocolate flakes	vanilla	tutti frutti
+92	2,3,4	sweet cone	vanilla	tutti frutti	caramel
+93	3	sweet cone	chocolate flakes	vanilla
+94	2,3	whipped cream	caramel	rum & walnuts
+95	1,2	vanilla	caramel
+96	1	caramel
+97	2,3	sweet cone	tutti frutti	rum & walnuts
+98	3,4	skittles	whipped cream	tutti frutti	rum & walnuts
+99	4	chocolate flakes	skittles	whipped cream	caramel
+100	1	vanilla
+101	1	pistachio
+102	4	sweet cone	chocolate flakes	skittles	coffee
+103	2,3	sweet cone	caramel	coffee
+104	2,3,4	sweet cone	tutti frutti	caramel	rum & walnuts
+105	3	chocolate flakes	skittles	rum & walnuts
+106	1,2	vanilla	rum & walnuts
+107	2,3,4,5	sweet cone	vanilla	tutti frutti	rum & walnuts	coffee
+108	4	sweet cone	chocolate flakes	whipped cream	vanilla
+109	3,4	chocolate flakes	whipped cream	tutti frutti	pistachio
+110	1,2,3	vanilla	caramel	pistachio
+111	2,3	skittles	caramel	coffee
+112	2,3	skittles	vanilla	coffee
+113	2,3,4	skittles	tutti frutti	caramel	coffee
+114	2	whipped cream	rum & walnuts
+115	1,2	tutti frutti	coffee
+116	2	sweet cone	vanilla
+117	2	chocolate flakes	tutti frutti
+118	3,4	chocolate flakes	skittles	tutti frutti	pistachio
+119	2	sweet cone	pistachio
+120	2,3	chocolate flakes	vanilla	tutti frutti
+121	3,4	sweet cone	chocolate flakes	tutti frutti	pistachio
+122	3,4	chocolate flakes	whipped cream	tutti frutti	pistachio
+123	2,3	skittles	tutti frutti	caramel
+124	2,3,4	whipped cream	rum & walnuts	coffee	pistachio
+125	2,3,4	sweet cone	tutti frutti	caramel	pistachio
+126	3,4,5	chocolate flakes	whipped cream	vanilla	caramel	rum & walnuts
+127	1	rum & walnuts
+128	1,2	caramel	coffee
+129	1,2	rum & walnuts	coffee
+130	3	sweet cone	whipped cream	rum & walnuts
+131	3,4	chocolate flakes	whipped cream	vanilla	tutti frutti
+132	2	sweet cone	vanilla
+133	2,3	whipped cream	vanilla	pistachio
+134	3,4	chocolate flakes	whipped cream	rum & walnuts	pistachio
+135	2	whipped cream	tutti frutti
+136	2,3	skittles	rum & walnuts	pistachio
+137	1,2	tutti frutti	coffee
+138	2,3	chocolate flakes	vanilla	coffee
+139	2,3	skittles	rum & walnuts	coffee
+140	1,2,3	caramel	rum & walnuts	pistachio
+141	3	skittles	whipped cream	coffee
+142	2,3	skittles	vanilla	tutti frutti
+143	3,4	chocolate flakes	skittles	coffee	pistachio
+144	1	tutti frutti
+145	3	sweet cone	whipped cream	vanilla
+146	1	tutti frutti
+147	3	chocolate flakes	whipped cream	caramel
+148	3,4	chocolate flakes	skittles	vanilla	pistachio
+149	2,3	skittles	rum & walnuts	coffee
+150	2,3,4	chocolate flakes	vanilla	coffee	pistachio
+151	2,3	skittles	tutti frutti	rum & walnuts
+152	2	chocolate flakes	tutti frutti
+153	2,3,4,5	sweet cone	vanilla	tutti frutti	caramel	pistachio
+154	2	whipped cream	pistachio
+155	4	chocolate flakes	skittles	whipped cream	rum & walnuts
+156	2,3	skittles	vanilla	tutti frutti
+157	2,3,4	skittles	vanilla	caramel	coffee
+158	1,2	rum & walnuts	pistachio
+159	3	sweet cone	whipped cream	coffee
+160	2	whipped cream	vanilla
+161	3	sweet cone	whipped cream	vanilla
+162	2,3,4	chocolate flakes	caramel	coffee	pistachio
+163	3,4	sweet cone	chocolate flakes	vanilla	coffee
+164	2,3,4	skittles	tutti frutti	caramel	pistachio
+165	3,4	skittles	whipped cream	vanilla	rum & walnuts
+166	2,3,4	sweet cone	vanilla	tutti frutti	rum & walnuts
+167	2,3,4	skittles	caramel	coffee	pistachio
+168	2,3	whipped cream	rum & walnuts	coffee
+169	3,4	sweet cone	whipped cream	vanilla	caramel
+170	2	skittles	tutti frutti
+171	2	chocolate flakes	coffee
+172	3,4,5	skittles	whipped cream	vanilla	tutti frutti	caramel
+173	1,2	rum & walnuts	coffee
+174	3,4,5,6	skittles	whipped cream	vanilla	caramel	rum & walnuts	coffee
+175	5,6,7,8	sweet cone	chocolate flakes	skittles	whipped cream	vanilla	tutti frutti	coffee	pistachio
+176	4,5	sweet cone	skittles	whipped cream	vanilla	coffee
+177	1	caramel
+178	2,3	whipped cream	vanilla	coffee
+179	1	coffee
+180	1,2	vanilla	pistachio
+181	2	skittles	tutti frutti
+182	3,4	sweet cone	skittles	rum & walnuts	coffee
+183	1	caramel
+184	4	sweet cone	skittles	whipped cream	pistachio
+185	3,4,5,6	sweet cone	whipped cream	caramel	rum & walnuts	coffee	pistachio
+186	2,3	sweet cone	caramel	pistachio
+187	1	tutti frutti
+188	3,4,5,6	chocolate flakes	whipped cream	vanilla	caramel	coffee	pistachio
+189	3	chocolate flakes	skittles	caramel
+190	2	skittles	coffee
+191	1,2,3	tutti frutti	caramel	rum & walnuts
+192	2	chocolate flakes	tutti frutti
+193	3	sweet cone	whipped cream	pistachio
+194	3	chocolate flakes	whipped cream	coffee
+195	1	rum & walnuts
+196	3,4,5	sweet cone	whipped cream	tutti frutti	caramel	pistachio
+197	3,4	sweet cone	skittles	vanilla	rum & walnuts
+198	3	sweet cone	chocolate flakes	vanilla
+199	1	pistachio
+200	3,4,5	sweet cone	whipped cream	tutti frutti	rum & walnuts	coffee
+201	2	whipped cream	rum & walnuts
+202	1,2	vanilla	caramel
+203	2,3	sweet cone	tutti frutti	caramel
+204	3,4	sweet cone	chocolate flakes	tutti frutti	rum & walnuts
+205	3	chocolate flakes	skittles	pistachio
+206	1	coffee
+207	1,2	vanilla	tutti frutti
+208	3,4,5,6	sweet cone	skittles	caramel	rum & walnuts	coffee	pistachio
+209	2,3	sweet cone	coffee	pistachio
+210	1	coffee
+211	1,2	rum & walnuts	coffee
+212	4,5	chocolate flakes	skittles	whipped cream	tutti frutti	pistachio
+213	2	chocolate flakes	caramel
+214	3,4,5	chocolate flakes	whipped cream	vanilla	caramel	coffee
+215	1	pistachio
+216	1,2	tutti frutti	caramel
+217	1,2	vanilla	pistachio
+218	3,4	chocolate flakes	whipped cream	tutti frutti	caramel
+219	3,4,5	chocolate flakes	whipped cream	vanilla	rum & walnuts	pistachio
+220	2	skittles	pistachio
+221	3,4,5,6	skittles	whipped cream	vanilla	caramel	rum & walnuts	pistachio
+222	1,2	vanilla	pistachio
+223	3,4	sweet cone	skittles	vanilla	pistachio
+224	2,3	skittles	tutti frutti	rum & walnuts
+225	2,3,4,5	sweet cone	vanilla	caramel	rum & walnuts	pistachio
+226	1	vanilla
+227	3,4,5,6	sweet cone	whipped cream	vanilla	tutti frutti	caramel	rum & walnuts
+228	2	whipped cream	coffee
+229	3	chocolate flakes	whipped cream	rum & walnuts
+230	2,3,4	skittles	tutti frutti	rum & walnuts	pistachio
+231	3	chocolate flakes	skittles	caramel
+232	3	skittles	whipped cream	coffee
+233	2	sweet cone	tutti frutti
+234	3,4,5	skittles	whipped cream	vanilla	tutti frutti	pistachio
+235	3	chocolate flakes	skittles	coffee
+236	1	tutti frutti
+237	1	rum & walnuts
+238	2	whipped cream	vanilla
+239	3	chocolate flakes	whipped cream	pistachio
+240	2	chocolate flakes	rum & walnuts
+241	2,3	sweet cone	coffee	pistachio
+242	4,5,6	sweet cone	chocolate flakes	whipped cream	caramel	coffee	pistachio
+243	2,3	chocolate flakes	tutti frutti	caramel
+244	2	whipped cream	tutti frutti
+245	3,4	sweet cone	chocolate flakes	caramel	pistachio
+246	4,5	chocolate flakes	skittles	whipped cream	coffee	pistachio
+247	1	vanilla
+248	3,4	sweet cone	skittles	vanilla	caramel
+249	1,2,3	tutti frutti	rum & walnuts	pistachio
+250	4,5,6,7	sweet cone	chocolate flakes	whipped cream	vanilla	tutti frutti	rum & walnuts	pistachio
+251	3,4	sweet cone	whipped cream	rum & walnuts	coffee
+252	1	rum & walnuts
+253	3,4	sweet cone	whipped cream	caramel	rum & walnuts
+254	3	sweet cone	chocolate flakes	vanilla
+255	3,4	sweet cone	whipped cream	tutti frutti	rum & walnuts
+256	3,4	skittles	whipped cream	caramel	coffee
+257	1,2,3	vanilla	tutti frutti	pistachio
+258	2	chocolate flakes	vanilla
+259	3,4,5	sweet cone	whipped cream	tutti frutti	caramel	pistachio
+260	1	rum & walnuts
+261	1,2	coffee	pistachio
+262	1	coffee
+263	2,3	chocolate flakes	tutti frutti	pistachio
+264	3,4	chocolate flakes	skittles	rum & walnuts	pistachio
+265	1	tutti frutti
+266	2,3,4	chocolate flakes	vanilla	caramel	rum & walnuts
+267	3,4	sweet cone	whipped cream	vanilla	pistachio
+268	2,3	sweet cone	vanilla	coffee
+269	1,2,3	tutti frutti	caramel	coffee
+270	2	chocolate flakes	pistachio
+271	1,2,3	vanilla	tutti frutti	rum & walnuts
+272	1,2,3,4	vanilla	tutti frutti	rum & walnuts	pistachio
+273	2,3	sweet cone	vanilla	pistachio
+274	1,2	rum & walnuts	coffee
+275	3	chocolate flakes	skittles	tutti frutti
+276	2	skittles	caramel
+277	1,2	vanilla	coffee
+278	4	sweet cone	chocolate flakes	whipped cream	rum & walnuts
+279	1	caramel
+280	2	whipped cream	vanilla
+281	2	whipped cream	tutti frutti
+282	3	sweet cone	skittles	tutti frutti
+283	1	tutti frutti
+284	1,2	vanilla	pistachio
+285	2	skittles	tutti frutti
+286	3,4,5	chocolate flakes	skittles	rum & walnuts	coffee	pistachio
+287	2,3	skittles	tutti frutti	coffee
+288	1,2	caramel	rum & walnuts
+289	3,4	skittles	whipped cream	vanilla	rum & walnuts
+290	2,3	sweet cone	vanilla	rum & walnuts
+291	1	tutti frutti
+292	3,4,5,6,7	chocolate flakes	skittles	vanilla	tutti frutti	caramel	rum & walnuts	coffee
+293	2	skittles	caramel
+294	3,4,5	sweet cone	chocolate flakes	rum & walnuts	coffee	pistachio
+295	1,2,3	vanilla	caramel	rum & walnuts
+296	3,4	sweet cone	skittles	caramel	coffee
+297	2,3,4	whipped cream	vanilla	tutti frutti	rum & walnuts
+298	1	coffee
+299	3,4	sweet cone	whipped cream	coffee	pistachio
+300	2,3	whipped cream	rum & walnuts	coffee
+301	1	pistachio
+302	1,2	tutti frutti	coffee
+303	2	sweet cone	tutti frutti
+304	3	chocolate flakes	skittles	tutti frutti
+305	2,3,4	whipped cream	vanilla	tutti frutti	caramel
+306	2,3	skittles	vanilla	rum & walnuts
+307	2	sweet cone	rum & walnuts
+308	2,3	whipped cream	vanilla	pistachio
+309	1	tutti frutti
+310	2,3,4,5	whipped cream	caramel	rum & walnuts	coffee	pistachio
+311	2,3,4	whipped cream	vanilla	tutti frutti	pistachio
+312	2	chocolate flakes	vanilla
+313	2,3,4,5	whipped cream	tutti frutti	caramel	coffee	pistachio
+314	5,6,7,8	sweet cone	chocolate flakes	skittles	whipped cream	vanilla	tutti frutti	caramel	rum & walnuts
+315	3,4	sweet cone	whipped cream	coffee	pistachio
+316	2	chocolate flakes	coffee
+317	2,3,4	chocolate flakes	tutti frutti	coffee	pistachio
+318	2	skittles	rum & walnuts
+319	1,2,3,4	vanilla	tutti frutti	caramel	pistachio
+320	2,3,4,5	whipped cream	vanilla	tutti frutti	coffee	pistachio
+321	1	coffee
+322	2	skittles	tutti frutti
+323	1,2,3	rum & walnuts	coffee	pistachio
+324	1	tutti frutti
+325	1,2,3	vanilla	caramel	pistachio
+326	3	chocolate flakes	skittles	coffee
+327	2	chocolate flakes	tutti frutti
+328	2	sweet cone	tutti frutti
+329	2	skittles	coffee
+330	1	vanilla
+331	3,4	sweet cone	chocolate flakes	tutti frutti	rum & walnuts
+332	2	sweet cone	pistachio
+333	2	whipped cream	coffee
+334	2,3	skittles	caramel	coffee
+335	2	skittles	pistachio
+336	3	chocolate flakes	whipped cream	coffee
+337	4	chocolate flakes	skittles	whipped cream	coffee
+338	1,2	coffee	pistachio
+339	2,3	skittles	caramel	coffee
+340	2,3,4,5	sweet cone	tutti frutti	caramel	coffee	pistachio
+341	2,3	sweet cone	tutti frutti	rum & walnuts
+342	2	sweet cone	caramel
+343	2,3,4	chocolate flakes	tutti frutti	caramel	pistachio
+344	1,2,3,4	vanilla	tutti frutti	rum & walnuts	coffee
+345	2,3	chocolate flakes	tutti frutti	caramel
+346	3,4,5,6	sweet cone	chocolate flakes	vanilla	rum & walnuts	coffee	pistachio
+347	3,4,5,6,7	chocolate flakes	whipped cream	tutti frutti	caramel	rum & walnuts	coffee	pistachio
+348	2,3	chocolate flakes	tutti frutti	pistachio
+349	1,2	vanilla	pistachio
+350	5,6,7,8,9	sweet cone	chocolate flakes	skittles	whipped cream	vanilla	caramel	rum & walnuts	coffee	pistachio
+351	2	skittles	vanilla
+352	1,2	vanilla	rum & walnuts
+353	1	tutti frutti
+354	3,4	sweet cone	whipped cream	coffee	pistachio
+355	4	chocolate flakes	skittles	whipped cream	tutti frutti
+356	3	sweet cone	whipped cream	caramel
+357	1	tutti frutti
+358	1,2	caramel	rum & walnuts
+359	2	chocolate flakes	caramel
+360	4	sweet cone	chocolate flakes	skittles	coffee
+361	3	skittles	whipped cream	pistachio
+362	2,3,4	whipped cream	vanilla	caramel	coffee
+363	1,2	vanilla	caramel
+364	2	chocolate flakes	caramel
+365	3,4	sweet cone	chocolate flakes	vanilla	coffee
+366	2	chocolate flakes	tutti frutti
+367	2,3	whipped cream	vanilla	caramel
+368	2,3,4,5	sweet cone	tutti frutti	caramel	rum & walnuts	pistachio
+369	2	chocolate flakes	rum & walnuts
+370	3,4	sweet cone	whipped cream	vanilla	caramel
+371	1	caramel
+372	4,5	sweet cone	chocolate flakes	whipped cream	coffee	pistachio
+373	3,4	chocolate flakes	skittles	tutti frutti	rum & walnuts
+374	3,4	sweet cone	skittles	vanilla	caramel
+375	3	sweet cone	whipped cream	pistachio
+376	2	skittles	caramel
+377	2,3,4	whipped cream	caramel	coffee	pistachio
+378	2,3,4	chocolate flakes	vanilla	coffee	pistachio
+379	3	chocolate flakes	skittles	pistachio
+380	2,3	chocolate flakes	vanilla	pistachio
+381	1	caramel
+382	2,3	chocolate flakes	rum & walnuts	pistachio
+383	3,4,5	skittles	whipped cream	vanilla	tutti frutti	rum & walnuts
+384	4,5	sweet cone	chocolate flakes	skittles	caramel	coffee
+385	2,3,4	sweet cone	tutti frutti	caramel	rum & walnuts
+386	3,4	sweet cone	whipped cream	vanilla	pistachio
+387	5	sweet cone	chocolate flakes	skittles	whipped cream	pistachio
+388	2	sweet cone	rum & walnuts
+389	2	whipped cream	coffee
+390	3	chocolate flakes	skittles	caramel
+391	1	caramel
+392	1,2	vanilla	coffee
+393	3,4	sweet cone	chocolate flakes	vanilla	caramel
+394	2	skittles	rum & walnuts
+395	2,3	chocolate flakes	caramel	rum & walnuts
+396	2,3,4	whipped cream	tutti frutti	caramel	rum & walnuts
+397	2	chocolate flakes	caramel
+398	2,3	skittles	vanilla	pistachio
+399	2,3,4,5,6	chocolate flakes	vanilla	tutti frutti	rum & walnuts	coffee	pistachio
+400	3,4	sweet cone	chocolate flakes	tutti frutti	pistachio
+401	2	skittles	tutti frutti
+402	1	caramel
+403	2	whipped cream	pistachio
+404	1,2,3	vanilla	tutti frutti	pistachio
+405	2,3	sweet cone	caramel	rum & walnuts
+406	2	chocolate flakes	vanilla
+407	2,3	skittles	vanilla	tutti frutti
+408	1	coffee
+409	2,3,4,5	chocolate flakes	tutti frutti	rum & walnuts	coffee	pistachio
+410	2,3	whipped cream	caramel	pistachio
+411	1,2	caramel	pistachio
+412	2	whipped cream	coffee
+413	3	chocolate flakes	skittles	vanilla
+414	3	chocolate flakes	skittles	rum & walnuts
+415	4,5	sweet cone	chocolate flakes	skittles	vanilla	coffee
+416	4	sweet cone	skittles	whipped cream	tutti frutti
+417	3	sweet cone	skittles	coffee
+418	2,3	sweet cone	tutti frutti	rum & walnuts
+419	2	chocolate flakes	tutti frutti
+420	1,2	caramel	coffee
+421	1	pistachio
+422	3,4	chocolate flakes	whipped cream	tutti frutti	rum & walnuts
+423	2,3,4	skittles	tutti frutti	rum & walnuts	pistachio
+424	3,4	sweet cone	chocolate flakes	caramel	rum & walnuts
+425	2	sweet cone	vanilla
+426	3	skittles	whipped cream	tutti frutti
+427	1,2,3,4	vanilla	tutti frutti	rum & walnuts	coffee
+428	2,3,4	sweet cone	caramel	rum & walnuts	coffee
+429	2	whipped cream	caramel
+430	3	sweet cone	chocolate flakes	coffee
+431	1,2,3	tutti frutti	coffee	pistachio
+432	1,2,3	caramel	rum & walnuts	pistachio
+433	2,3	sweet cone	tutti frutti	pistachio
+434	1	vanilla
+435	2,3	chocolate flakes	vanilla	rum & walnuts
+436	2,3	sweet cone	tutti frutti	coffee
+437	2,3	whipped cream	rum & walnuts	coffee
+438	2,3,4	skittles	vanilla	tutti frutti	pistachio
+439	2	whipped cream	tutti frutti
+440	1,2	caramel	pistachio
+441	1	vanilla
+442	3	chocolate flakes	skittles	caramel
+443	2	chocolate flakes	vanilla
+444	3,4,5	sweet cone	chocolate flakes	vanilla	coffee	pistachio
+445	1,2	vanilla	caramel
+446	2,3	whipped cream	rum & walnuts	pistachio
+447	3,4,5	sweet cone	skittles	vanilla	tutti frutti	coffee
+448	3,4	skittles	whipped cream	tutti frutti	coffee
+449	1,2	coffee	pistachio
+450	4	sweet cone	chocolate flakes	whipped cream	rum & walnuts
+451	1,2,3	caramel	coffee	pistachio
+452	3,4	chocolate flakes	whipped cream	caramel	pistachio
+453	2,3	whipped cream	vanilla	tutti frutti
+454	3,4,5,6	sweet cone	skittles	vanilla	tutti frutti	rum & walnuts	pistachio
+455	2	skittles	tutti frutti
+456	2	whipped cream	coffee
+457	4,5	sweet cone	chocolate flakes	skittles	vanilla	pistachio
+458	3,4	sweet cone	whipped cream	caramel	coffee
+459	1,2	tutti frutti	rum & walnuts
+460	4,5,6	sweet cone	skittles	whipped cream	rum & walnuts	coffee	pistachio
+461	3	skittles	whipped cream	coffee
+462	2,3	chocolate flakes	tutti frutti	rum & walnuts
+463	3	sweet cone	whipped cream	tutti frutti
+464	2	skittles	vanilla
+465	2,3,4,5,6	chocolate flakes	vanilla	tutti frutti	caramel	rum & walnuts	coffee
+466	3	chocolate flakes	skittles	tutti frutti
+467	1,2,3,4	vanilla	caramel	rum & walnuts	coffee
+468	2	chocolate flakes	pistachio
+469	3,4,5	sweet cone	chocolate flakes	caramel	rum & walnuts	pistachio
+470	1,2	tutti frutti	coffee
+471	2,3,4,5	skittles	vanilla	caramel	coffee	pistachio
+472	3	chocolate flakes	skittles	coffee
+473	1,2	tutti frutti	coffee
+474	2	whipped cream	caramel
+475	1	vanilla
+476	1	pistachio
+477	2,3	skittles	caramel	coffee
+478	2	whipped cream	pistachio
+479	2,3	sweet cone	vanilla	coffee
+480	3	chocolate flakes	skittles	rum & walnuts
+481	2,3,4	chocolate flakes	vanilla	tutti frutti	rum & walnuts
+482	4	sweet cone	skittles	whipped cream	rum & walnuts
+483	1	coffee
+484	1,2	caramel	rum & walnuts
+485	3	chocolate flakes	whipped cream	rum & walnuts
+486	3	sweet cone	skittles	rum & walnuts
+487	2,3,4	chocolate flakes	vanilla	tutti frutti	rum & walnuts
+488	3,4	sweet cone	chocolate flakes	tutti frutti	caramel
+489	2	skittles	pistachio
+490	4	chocolate flakes	skittles	whipped cream	vanilla
+491	2	whipped cream	caramel
+492	2,3	chocolate flakes	rum & walnuts	coffee
+493	3,4,5	chocolate flakes	skittles	caramel	rum & walnuts	coffee
+494	1,2,3	tutti frutti	caramel	rum & walnuts
+495	2	skittles	tutti frutti
+496	2	whipped cream	caramel
+497	3,4	sweet cone	whipped cream	vanilla	tutti frutti
+498	3	sweet cone	chocolate flakes	pistachio
+499	4,5	sweet cone	skittles	whipped cream	coffee	pistachio
+500	1	tutti frutti
+501	2,3	sweet cone	tutti frutti	rum & walnuts
+502	1	caramel
+503	1,2,3	vanilla	coffee	pistachio
+504	2	sweet cone	caramel
+505	3,4	chocolate flakes	skittles	vanilla	pistachio
+506	2,3	whipped cream	tutti frutti	rum & walnuts
+507	2,3	chocolate flakes	tutti frutti	rum & walnuts
+508	2,3,4,5	skittles	vanilla	tutti frutti	caramel	pistachio
+509	3,4,5	sweet cone	chocolate flakes	caramel	rum & walnuts	coffee
+510	2,3	whipped cream	coffee	pistachio
+511	1,2,3	tutti frutti	coffee	pistachio
+512	3,4,5	chocolate flakes	whipped cream	vanilla	caramel	rum & walnuts
+513	2,3,4,5	whipped cream	tutti frutti	rum & walnuts	coffee	pistachio
+514	2,3	whipped cream	tutti frutti	rum & walnuts
+515	2	chocolate flakes	coffee
+516	2,3	chocolate flakes	tutti frutti	rum & walnuts
+517	2,3	chocolate flakes	caramel	rum & walnuts
+518	2,3	chocolate flakes	caramel	rum & walnuts
+519	4	sweet cone	chocolate flakes	whipped cream	rum & walnuts
+520	4	chocolate flakes	skittles	whipped cream	rum & walnuts
+521	1	caramel
+522	1,2	vanilla	tutti frutti
+523	4,5	sweet cone	chocolate flakes	whipped cream	vanilla	caramel
+524	2,3	whipped cream	tutti frutti	pistachio
+525	2,3	chocolate flakes	vanilla	pistachio
+526	3,4,5	sweet cone	skittles	caramel	coffee	pistachio
+527	2,3,4	whipped cream	tutti frutti	rum & walnuts	pistachio
+528	3,4	sweet cone	whipped cream	caramel	coffee
+529	2,3,4,5	skittles	tutti frutti	caramel	rum & walnuts	coffee
+530	5,6	sweet cone	chocolate flakes	skittles	whipped cream	vanilla	caramel
+531	3,4,5	chocolate flakes	whipped cream	vanilla	rum & walnuts	pistachio
+532	2	chocolate flakes	caramel
+533	2,3	chocolate flakes	tutti frutti	coffee
+534	3	chocolate flakes	whipped cream	tutti frutti
+535	3	sweet cone	skittles	coffee
+536	2,3,4	sweet cone	tutti frutti	coffee	pistachio
+537	4,5	sweet cone	chocolate flakes	skittles	vanilla	coffee
+538	2	skittles	rum & walnuts
+539	1,2,3,4	vanilla	tutti frutti	caramel	pistachio
+540	3,4,5,6	skittles	whipped cream	tutti frutti	rum & walnuts	coffee	pistachio
+541	1,2	rum & walnuts	pistachio
+542	1	caramel
+543	2	whipped cream	vanilla
+544	4,5,6	sweet cone	skittles	whipped cream	tutti frutti	caramel	pistachio
+545	4,5,6	sweet cone	skittles	whipped cream	caramel	rum & walnuts	pistachio
+546	4	sweet cone	chocolate flakes	whipped cream	pistachio
+547	2	chocolate flakes	tutti frutti
+548	1,2	coffee	pistachio
+549	5,6,7	sweet cone	chocolate flakes	skittles	whipped cream	tutti frutti	rum & walnuts	pistachio
+550	2,3	whipped cream	caramel	rum & walnuts
+551	2,3	chocolate flakes	tutti frutti	coffee
+552	2	chocolate flakes	vanilla
+553	2	skittles	caramel
+554	2,3	whipped cream	vanilla	caramel
+555	1	vanilla
+556	4	sweet cone	chocolate flakes	skittles	caramel
+557	3	skittles	whipped cream	coffee
+558	1	pistachio
+559	1	vanilla
+560	1,2	vanilla	rum & walnuts
+561	2,3	whipped cream	vanilla	pistachio
+562	3	sweet cone	whipped cream	tutti frutti
+563	3,4	sweet cone	skittles	tutti frutti	rum & walnuts
+564	1,2	caramel	pistachio
+565	3,4,5,6	chocolate flakes	whipped cream	vanilla	tutti frutti	rum & walnuts	pistachio
+566	1	caramel
+567	3,4	skittles	whipped cream	rum & walnuts	pistachio
+568	2,3	sweet cone	rum & walnuts	pistachio
+569	3,4	sweet cone	chocolate flakes	caramel	rum & walnuts
+570	2	chocolate flakes	vanilla
+571	3	skittles	whipped cream	pistachio
+572	3,4,5	skittles	whipped cream	tutti frutti	caramel	coffee
+573	2,3,4	skittles	tutti frutti	caramel	rum & walnuts
+574	1,2,3	vanilla	coffee	pistachio
+575	2,3,4,5	skittles	vanilla	tutti frutti	coffee	pistachio
+576	4	sweet cone	skittles	whipped cream	pistachio
