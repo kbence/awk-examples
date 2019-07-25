@@ -30,8 +30,8 @@ function random_ua() {
 }
 
 function next_time() {
-    time_str = strftime("%Y-%m-%d %H:%M:%S") "," sprintf("%03d", current_time % 1000)
-    current_time += random_int(1, 1000)
+    time_str = strftime("%Y-%m-%d %H:%M:%S", current_time / 1000) "," sprintf("%03d", current_time % 1000)
+    current_time += random_int(1, 2000)
     return time_str
 }
 
