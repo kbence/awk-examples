@@ -1,8 +1,11 @@
 #!/usr/bin/awk -f
 
 {
-    if (!max_request[$1] || max_request[$1] < $3) {
-        max_request[$1] = $3; max_ip[$1] = $2
+    requests[$3][$4]++;
+
+    if (!max_request[$3] || max_request[$3] < requests[$3][$4]) {
+        max_request[$3] = requests[$3][$4];
+        max_ip[$3] = $4;
     }
 }
 
