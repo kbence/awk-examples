@@ -17,6 +17,8 @@
 \     |                   |                                      |
 \    sed                 `awk`                                    perl
 
+\                https://github.com/kbence/awk-examples
+
 ---
 
 -> # Pattern matching <-
@@ -129,6 +131,8 @@ END {
     print "Drogon, Rhaegal, Viserion"
 }
 ```
+
+See also: `BEGINFILE`, `ENDFILE`
 
 ---
 
